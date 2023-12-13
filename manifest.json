@@ -1,21 +1,13 @@
 {
  "name": "Hospital Nursing Care",
+ "background_color": "#FFFFFF",
  "display": "fullscreen",
+ "start_url": "index.htm?installed=true",
  "icons": [
   {
-   "sizes": "150x150",
+   "sizes": "512x512",
    "type": "image/png",
-   "src": "misc/icon150.png"
-  },
-  {
-   "sizes": "16x16",
-   "type": "image/png",
-   "src": "misc/icon16.png"
-  },
-  {
-   "sizes": "180x180",
-   "type": "image/png",
-   "src": "misc/icon180.png"
+   "src": "misc/icon512.png"
   },
   {
    "sizes": "192x192",
@@ -23,22 +15,30 @@
    "src": "misc/icon192.png"
   },
   {
-   "sizes": "32x32",
+   "sizes": "180x180",
    "type": "image/png",
-   "src": "misc/icon32.png"
+   "src": "misc/icon180.png"
   },
   {
-   "sizes": "512x512",
+   "sizes": "150x150",
    "type": "image/png",
-   "src": "misc/icon512.png"
+   "src": "misc/icon150.png"
   },
   {
    "sizes": "64x64",
    "type": "image/png",
    "src": "misc/icon64.png"
+  },
+  {
+   "sizes": "32x32",
+   "type": "image/png",
+   "src": "misc/icon32.png"
+  },
+  {
+   "sizes": "16x16",
+   "type": "image/png",
+   "src": "misc/icon16.png"
   }
  ],
- "background_color": "#FFFFFF",
- "theme_color": "#FFFFFF",
- "start_url": "index.htm?installed=true"
+ "theme_color": "#FFFFFF"
 }
