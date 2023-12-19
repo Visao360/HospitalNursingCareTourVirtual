@@ -1,4 +1,9 @@
 {
+ "name": "Hospital Nursing Care",
+ "background_color": "#FFFFFF",
+ "display": "fullscreen",
+ "start_url": "index.htm?installed=true",
+ "theme_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -35,10 +40,5 @@
    "sizes": "64x64",
    "src": "misc/icon64.png"
   }
- ],
- "theme_color": "#FFFFFF",
- "name": "Hospital Nursing Care",
- "display": "fullscreen",
- "start_url": "index.htm?installed=true",
- "background_color": "#FFFFFF"
+ ]
 }
